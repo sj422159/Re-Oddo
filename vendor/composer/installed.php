@@ -3,7 +3,7 @@
         'name' => 'rewear/community-exchange',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => '812361ebc423334257135690c324dc07aed1740d',
+        'reference' => '2fe9db092a691bc962352095cce2047c6fe00ef0',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -766,8 +766,8 @@
         'psr/log-implementation' => array(
             'dev_requirement' => false,
             'provided' => array(
-                0 => '1.0|2.0|3.0',
-                1 => '3.0.0',
+                0 => '3.0.0',
+                1 => '1.0|2.0|3.0',
             ),
         ),
         'psr/simple-cache' => array(
@@ -824,7 +824,7 @@
         'rewear/community-exchange' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => '812361ebc423334257135690c324dc07aed1740d',
+            'reference' => '2fe9db092a691bc962352095cce2047c6fe00ef0',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
