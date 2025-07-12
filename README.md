@@ -75,11 +75,11 @@ ReWear is a Laravel-based web platform that enables users to exchange unused clo
 
 ### Admin Access
 - **Email**: admin@rewear.com
-- **Password**: password
+- **Password**: 123456789
 
 ### Demo User
 - **Email**: alice@example.com
-- **Password**: password
+- **Password**: 123456789
 
 ## Contributing
 
