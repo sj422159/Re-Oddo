@@ -43,5 +43,6 @@ class DashboardController extends Controller
             'sentSwapRequests',
             'recentTransactions'
         ));
+        
     }
 }
